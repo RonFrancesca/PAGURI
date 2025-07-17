@@ -4,8 +4,6 @@
 
 <!-- <img width="800px" src="docs/new-generic-style-transfer-headline.svg"> -->
 
-Repo supporting Transactions of the Information Retrieval Society (TISMIR) submission
-
 </div>
 
 
