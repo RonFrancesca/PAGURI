@@ -1,3 +1,4 @@
+# PAGURI: a user experience study of creative interaction with text-to-music models
 
 <p align="center">
   <img src="figures/PAGURI_Logo.png"/>
