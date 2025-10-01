@@ -8,14 +8,7 @@
 
 <sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
     
-[![MDPI Eletroncis](https://img.shields.io/badge/MDPI-paper-blue.svg)](https://www.mdpi.com/2079-9292/14/17/3379)
-
-</div>
-
-
-[![MDPI - Eletronics](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.mdpi.com/2079-9292/14/17/3379) *Francesca Ronchini, Luca Comanducci, Gabriele Perego, Fabio Antonacci*
-
-This repository contains the implementation of the paper **_PAGURI: a user experience study of creative interaction with text-to-music models_**, Electronics 2025, 14, 3379.
+[![MDPI Eletroncis](https://img.shields.io/badge/Eletronics-2079-9292-blue.svg)](https://www.mdpi.com/2079-9292/14/17/3379)
 
 </div>
 
