@@ -6,7 +6,7 @@
  
 [Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/), [Luca Comanducci](https://www.linkedin.com/in/lucacomanducci/), Gabriele Perego, [Fabio Antonacci](https://scholar.google.com/citations?user=9e2rt3gAAAAJ&hl=en&oi=ao)
 
-<sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
+Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
     
 [![MDPI Eletroncis](https://img.shields.io/badge/Eletronics-20799292-blue.svg)](https://www.mdpi.com/2079-9292/14/17/3379)
 
