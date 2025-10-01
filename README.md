@@ -4,6 +4,10 @@
 
 <!-- <img width="800px" src="docs/new-generic-style-transfer-headline.svg"> -->
 
+[![MDPI - Eletronics](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://www.mdpi.com/2079-9292/14/17/3379) *Francesca Ronchini, Luca Comanducci, Gabriele Perego, Fabio Antonacci*
+
+This repository contains the implementation of the paper **_PAGURI: a user experience study of creative interaction with text-to-music models_**, Electronics 2025, 14, 3379.
+
 </div>
 
 
@@ -15,7 +19,7 @@ In recent years, text-to-music models have been the biggest breakthrough in auto
 
 ### Code
 
-The jupyter notebook PAGURI_interface.ipynb contains all the necessary code needed to run the PAGURI interface. Before running PAGURI, it is necessary to clone the current repo and install the requirements contained in requirements.txt
+The jupyter notebook **PAGURI_interface.ipynb** contains all the necessary code needed to run the PAGURI interface. Before running PAGURI, it is necessary to clone the current repo and install the requirements contained in requirements.txt
 
 ## ACKNOWLEDGMENTS
 This code is heavely based on the following references : 
