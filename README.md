@@ -34,7 +34,7 @@ The jupyter notebook **PAGURI_interface.ipynb** contains all the necessary code 
 
 ## Supplementary Material
 
-Code and supplementary material containing the answers to all questions, feedback, and further details are available on the [accompanying website](https://ronfrancesca.github.io/PAGURI/)
+Code and supplementary material containing the answers to all questions, feedback, and further details are available on the [accompanying website](https://ronfrancesca.github.io/PAGURI/). 
 
 ## Acknowledge
 This code is heavely based on the following references : 
