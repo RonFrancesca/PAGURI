@@ -32,6 +32,10 @@ In recent years, text-to-music models have been the biggest breakthrough in auto
 
 The jupyter notebook **PAGURI_interface.ipynb** contains all the necessary code needed to run the PAGURI interface. Before running PAGURI, it is necessary to clone the current repo and install the requirements contained in requirements.txt
 
+## Supplementary Material
+
+Code and Supplementary Material containing the answers to all questions, feedback, and further details are available on the [accompanying website](https://ronfrancesca.github.io/PAGURI/)
+
 ## Acknowledge
 This code is heavely based on the following references : 
 
