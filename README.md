@@ -33,3 +33,25 @@ This code is heavely based on the following references :
 [AudioLDM](https://github.com/haoheliu/AudioLDM)
 
 [Diffusers](https://github.com/huggingface/diffusers) 
+
+
+## Additional information
+
+For more details:
+"[PAGURI: A User Experience Study of Creative Interaction with Text-to-Music Models](https://www.mdpi.com/2079-9292/14/17/3379)" - Electronics 2025, 14, 3379. https://doi.org/10.3390/electronics14173379
+
+If you use code or comments from this work, please cite our paper:
+
+```BibTex
+@article{ronchini2024paguri,
+    AUTHOR = {Ronchini, Francesca and Comanducci, Luca and Perego, Gabriele and Antonacci, Fabio},
+    TITLE = {PAGURI: A User Experience Study of Creative Interaction with Text-to-Music Models},
+    JOURNAL = {Electronics},
+    VOLUME = {14},
+    YEAR = {2025},
+    NUMBER = {17},
+    ARTICLE-NUMBER = {3379},
+    ISSN = {2079-9292},
+}
+```
+
