@@ -4,7 +4,7 @@
 
 <!-- <img width="700px" src="docs/new-generic-style-transfer-headline.svg"> -->
  
-[Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/)<sup>1</sup>, [Luca Comanducci](https://www.linkedin.com/in/lucacomanducci/), Gabriele Perego, [Fabio Antonacci](https://scholar.google.com/citations?user=9e2rt3gAAAAJ&hl=en&oi=ao)<sup>2</sup>
+[Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/), [Luca Comanducci](https://www.linkedin.com/in/lucacomanducci/), Gabriele Perego, [Fabio Antonacci](https://scholar.google.com/citations?user=9e2rt3gAAAAJ&hl=en&oi=ao)
 
 <sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
     
