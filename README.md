@@ -7,9 +7,8 @@
 [Francesca Ronchini](https://www.linkedin.com/in/francesca-ronchini/)<sup>1</sup>, [Luca Comanducci](https://www.linkedin.com/in/lucacomanducci/), Gabriele Perego, [Fabio Antonacci](https://scholar.google.com/citations?user=9e2rt3gAAAAJ&hl=en&oi=ao)<sup>2</sup>
 
 <sup>1</sup> Dipartimento di Elettronica, Informazione e Bioingegneria - Politecnico di Milano<br>
-<sup>2</sup> Université de Lorraine, CNRS, Inria, Loria <br>
     
-[![IEEEXplore](https://img.shields.io/badge/IEEEXplore-10445834-blue.svg)](https://ieeexplore.ieee.org/abstract/document/10445834)
+[![MDPI Eletroncis](https://img.shields.io/badge/MDPI-paper-blue.svg)](https://www.mdpi.com/2079-9292/14/17/3379)
 
 </div>
 
