@@ -1,4 +1,3 @@
-# PAGURI: PROMPT AUDIO GENERATOR USER RESEARCH INVESTIGATION
 
 <p align="center">
   <img src="figures/PAGURI_Logo.png"/>
